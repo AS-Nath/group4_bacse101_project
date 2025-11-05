@@ -1,7 +1,8 @@
-# Sonographic Stick for the Visually Impaired
+# Vision Guide
 
 The visually impaired have for long struggled under the yoke of mundane, non-smart so-called 'blind sticks'.
 This project aims to change that and give the blind / visually impaired a more exciting perspective on life. 
+This repository contains the backbone of the final model.
 
 ### Setup Instructions (available in the source)
 If running Linux, create a virtual environment before running any ```pip3 install``` commands.
